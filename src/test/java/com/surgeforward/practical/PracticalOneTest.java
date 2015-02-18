@@ -1,4 +1,4 @@
-package com.remedymd.practical;
+package com.surgeforward.practical;
 
 import org.junit.Assert;
 import org.junit.Test;
@@ -8,7 +8,7 @@ public class PracticalOneTest {
 
     public PracticalOneTest() {
         //TODO: Instantiate your implementation
-        practicalOne = null; //new PracticalOneImpl();
+        practicalOne = new PracticalOneImpl();
     }
 
     @Test
