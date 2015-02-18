@@ -1,4 +1,4 @@
-package com.remedymd.practical;
+package com.surgeforward.practical;
 
 /**
  * Created by IntelliJ IDEA.
